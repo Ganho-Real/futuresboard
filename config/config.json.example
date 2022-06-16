@@ -1,7 +1,7 @@
 {
    "EXCHANGE": "bybit",
-    "API_KEY": "ZKgWo8AIlEeO5YKXJY",
-    "API_SECRET": "61bY74TEAuRCdxnrG9U4foFt3Jm5aBlg2DPf",
+    "API_KEY": "",
+    "API_SECRET": "",
     "AUTO_SCRAPE_INTERVAL": 300,
     "CUSTOM": {
         "NAVBAR_TITLE": "Futuresboard",
